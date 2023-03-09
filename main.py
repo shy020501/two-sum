@@ -1,5 +1,3 @@
-
-
 def twoSum(self, nums: list[int], target: int) -> list[int]:
     answer: list = []
     for i in range(len(nums)-1):
